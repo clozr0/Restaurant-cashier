@@ -10,7 +10,7 @@ body {
 
 /* Media */
 
-@media (min-width: 424px) {
+@media (min-width: 400px) {
     button {
         color: #ff0000;
     }
