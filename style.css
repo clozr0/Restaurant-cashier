@@ -40,7 +40,7 @@ body {
     height: auto;
   }
 
-  .cart .cart-item button {
+  .cart .cart-item button , .food-items button {
     font-size: 8px;
     width: 40px;
     height: 20px;
