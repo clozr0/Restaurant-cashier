@@ -1,20 +1,20 @@
 let foodItems = {
   mainMeal: [
-    { name: 'Chickens', price: 10, image: 'images/chicken.jpg' },
-    { name: 'Pasta', price: 8, image: 'images/pasta.jpg' },
+    { name: 'Chickens', price: 10, image: 'images/chicken.png' },
+    { name: 'Pasta', price: 8, image: 'images/pasta.png' },
     { name: 'Kebab', price: 12, image: 'images/kebab.jpg' }
   ],
   appetizers: [
-    { name: 'Authority', price: 5, image: 'images/authority.jpg' },
-    { name: 'Diet salad', price: 6, image: 'images/salad.jpg' }
+    { name: 'Hummus', price: 5, image: 'images/hummus.jpg' },
+    { name: 'Tabbouleh', price: 6, image: 'images/tabbouleh.jpg' }
   ],
   drinks: [
     { name: 'Coffee', price: 3, image: 'images/coffee.jpg' },
     { name: 'Tea', price: 2, image: 'images/tea.jpg' },
     { name: 'Orange juice', price: 4, image: 'images/orange_juice.jpg' },
-    { name: 'Peach juice', price: 4, image: 'images/peach_juice.jpg' },
-    { name: 'Cold tea', price: 3, image: 'images/cold_tea.jpg' },
-    { name: 'Energy drink', price: 5, image: 'images/energy_drink.jpg' }
+    { name: 'Lemon juice', price: 4, images: 'images/lemon_juice.jpg' },
+    { name: 'Champagne', price: 3, image: 'images/champagne.webp' },
+    { name: 'Grape juice', price: 5, image: 'images/grape_juice.png' }
   ]
 };
 
